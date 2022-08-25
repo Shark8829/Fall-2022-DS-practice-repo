@@ -1,10 +1,15 @@
+<p align="center">
+  <img  src="https://github.com/Jikhan-Jeong/Fall-2022-DS-practice-repo/blob/main/title_pic.png">
+
+</p>
+
 # Practice Activity for Intro to DS
 Introduction to Data Science Course.
 
 Classwork (CW) activity: *Practicing git commands and Markdown.*
 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 
 
 # Instructions:
@@ -16,6 +21,6 @@ Classwork (CW) activity: *Practicing git commands and Markdown.*
 
 
 * reference: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-
+* reference: https://github.com/reisanar/practice-repo
 ---
 Introduction to Data Science
