@@ -1,6 +1,5 @@
----
+
 # Your First Name Last Name
----
 ### Fall 2022
 DSBA student at Florida Polytechnic University currently enrolled in
 
