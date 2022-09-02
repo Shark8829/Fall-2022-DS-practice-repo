@@ -35,4 +35,8 @@ print(Friday)
 
 ### Image
 
-![text for image](path)
+![text for image](https://github.com/Jikhan-Jeong/Fall-2022-DS-practice-repo/blob/main/title_pic.png)
+
+
+Thank you,
+JJ
