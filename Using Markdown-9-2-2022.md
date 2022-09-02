@@ -6,6 +6,7 @@
 
 
 * you need to put md, in the file name (e.g, name_file.md)
+* you can see output with preview
 
 _italicize_
 
