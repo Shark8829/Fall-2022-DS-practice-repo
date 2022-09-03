@@ -8,7 +8,6 @@
 * Book website: https://www.pearson.com/en-us/subject-catalog/p/programming-skills-for-data-science-start-writing-code-to-wrangle-analyze-and-visualize-data-with-r/P200000009475?view=educator&tab=instructor-resources
 * Book github: https://programming-for-data-science.github.io/
 * Book exercise: https://programming-for-data-science.github.io/
-* Book exercise solution: https://github.com/programming-for-data-science/book-exercises/tree/solution
 
 Regard,
 JJ
