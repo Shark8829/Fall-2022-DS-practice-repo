@@ -3,24 +3,13 @@
 
 </p>
 
-# Practice Activity for Intro to DS
-Introduction to Data Science Course.
+# DS 2022 Fall
+* Name: JJ
+* Book website: https://www.pearson.com/en-us/subject-catalog/p/programming-skills-for-data-science-start-writing-code-to-wrangle-analyze-and-visualize-data-with-r/P200000009475?view=educator&tab=instructor-resources
+* Book github: https://programming-for-data-science.github.io/
+* Book exercise: https://programming-for-data-science.github.io/
+* Book exercise solution: https://github.com/programming-for-data-science/book-exercises/tree/solution
 
-Classwork (CW) activity: *Practicing git commands and Markdown.*
+Regard,
+JJ
 
-
-
-
-
-# Instructions:
-* Update the 'DS_student.md' file with your information. Make sure to practice by typesetting this Markdown file using any of the options introduced in class as you seem appropriate (e.g., using bold or italicized fonts, including figures and hyperlinks, or creating tables).
-
-* As usual, remember to add -> commit -> push to your copy of the repo on GitHub
-
-* _This is an introductory exercise to practice your Markdown and git skills. Make sure to contact your instructor if there are any questions!_ 
-
-
-* reference: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-* reference: https://github.com/reisanar/practice-repo
----
-Introduction to Data Science
