@@ -1,7 +1,6 @@
 
 
 # Markdown 
-* date: 9-2-2022
 * name: Jikhan Jeong
 
 
@@ -38,6 +37,25 @@ print(Friday)
 
 ![text for image](https://github.com/Jikhan-Jeong/Fall-2022-DS-practice-repo/blob/main/title_pic.png)
 
+### Table
+
+| Syntax        | Formatting                                                       |
+| :-------------| :--------------------------------------------------------------- |
+|`#`            | Header (use `##` for second level, `###` for third level, etc.)  |
+|`-`            | Bulleted/unordered lists (hyphens)                               |
+|`>`            | Block quote                                              |
+
+
+### Food 
+
+| Lunch         | Taste                                                            |
+| :-------------| :--------------------------------------------------------------- |
+| - *Pizza*       | So good                                                          |
+| - **Chicken**   | Five star                                                        |
+| - ~~Diet Coke~~     | Cool                                                             |
+| `Dining center link`|   [link][https://dineoncampus.com/FLPoly/whats-on-the-menu]|
+
+updated: 9-7-2022
 
 Thank you,
 JJ
